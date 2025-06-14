@@ -1,0 +1,54 @@
+# Unity Editor generated files
+.vs/
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.sdf
+
+# Logs y temporales
+Logs/
+*.log
+*.tmp
+*.temp
+
+# Archivos generados por sistemas operativos
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Configuración específica de Visual Studio / Rider
+*.suo
+*.user
+*.sln.docstates
+*.dotSettings
+.idea/
+.iml
+
+# Archivos de caché
+Cache/
+Library/ScriptAssemblies/
+
+# Unity specific folders
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Oo]bj/
+UserSettings/
+
+# Package cache (incluye .Runtime)
+Library/PackageCache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Additional Unity-related files
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
